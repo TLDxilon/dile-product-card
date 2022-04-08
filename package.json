@@ -1,0 +1,29 @@
+{
+  "name": "dile-product-card",
+  "version": "1.0.0",
+  "description": "Basic product card for a e-commerce",
+  "main": "dile-product-card.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Polydile/dile-product-card.git"
+  },
+  "keywords": [
+    "webcomponents",
+    "litelement",
+    "javascript",
+    "html",
+    "css"
+  ],
+  "author": "@EscuelaIT",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Polydile/dile-product-card/issues"
+  },
+  "homepage": "https://github.com/Polydile/dile-product-card#readme",
+  "dependencies": {
+    "lit-element": "^3.2.0"
+  }
+}
